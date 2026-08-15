@@ -22,6 +22,7 @@ full mathematical derivations, terminology definitions, and structured learning 
 | [10](guide/10_glossary.md) | **Glossary** — every term, A–Z |
 | [11](guide/11_notation.md) | **Notation Reference** — every symbol |
 | [12](guide/12_projects_and_resources.md) | **Projects & Resources** — 24 projects, papers, books, interview prep |
+| [13](guide/13_frameworks.md) | **Frameworks** — scikit-learn, TensorFlow/Keras, PyTorch: APIs, use cases, sample code |
 
 **New here?** Start with the [learning paths](guide/00_learning_paths.md) to pick a route.
 
@@ -29,6 +30,7 @@ full mathematical derivations, terminology definitions, and structured learning 
 
 | Directory | Contents |
 |-----------|----------|
+| `notebooks/` | [**Framework comparison**](notebooks/13_framework_comparison.ipynb) — the same model built in scikit-learn, Keras, and PyTorch side by side, with training curves and exercises |
 | `python/` | Library tutorials: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch, OpenCV, NLTK/spaCy, Transformers, XGBoost/LightGBM, serialization, FastAPI serving |
 | `supervised/` | Linear & logistic regression, kNN, SVM, decision tree, random forest, neural network |
 | `unsupervised/` | K-Means, PCA, autoencoder |
