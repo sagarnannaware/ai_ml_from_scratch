@@ -1,4 +1,4 @@
-# AI/ML Mastery Guide — Zero to Hero
+# AI ML from Scratch — Zero to Hero
 
 A complete, self-contained curriculum that takes you from "I know a bit of Python" to
 "I can derive, implement, train, evaluate, and deploy modern ML and AI systems."
@@ -6,9 +6,11 @@ A complete, self-contained curriculum that takes you from "I know a bit of Pytho
 Every concept is defined in words, then in mathematics, then in code pointers.
 Nothing is assumed except high-school algebra and basic Python.
 
-> **Math rendering:** formulas use LaTeX (`$...$` inline, `$$...$$` block). GitHub renders
-> these natively in Markdown. In VS Code, use the *Markdown+Math* or *Markdown Preview
-> Enhanced* extension.
+> **Math rendering:** formulas use LaTeX (`$...$` inline, `$$...$$` block).
+> These render on **github.com** (desktop and mobile browser) and in VS Code with the
+> *Markdown+Math* or *Markdown Preview Enhanced* extension.
+> The **GitHub mobile app** does not render LaTeX — it shows the raw source, so formulas
+> look like `\mathbf{x}` there. Open the repo in a mobile **browser** instead.
 
 ---
 

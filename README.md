@@ -2,7 +2,7 @@
 
 Learning AI/ML from first principles — a complete curriculum plus runnable example code.
 
-## 📚 [The AI/ML Mastery Guide — Zero to Hero](guide/README.md)
+## 📚 [AI ML from Scratch — Zero to Hero Guide](guide/README.md)
 
 A self-contained curriculum covering every concept from linear algebra to LLM deployment, with
 full mathematical derivations, terminology definitions, and structured learning paths.
